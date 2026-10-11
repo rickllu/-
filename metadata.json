@@ -1,0 +1,6 @@
+{
+  "name": "手表课表",
+  "description": "专为手表设计的极简课程表，根据当前时间智能高亮展示当前与后续课程，支持自由修改。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
